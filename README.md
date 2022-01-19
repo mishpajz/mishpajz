@@ -1,5 +1,5 @@
 ## Hi there 👋 My name is Michal
-I am a undergraduate student at Czech Technical University in Prague. 
+I am an undergraduate student at Czech Technical University in Prague. 
 
 <img align="center" src="https://avatars.githubusercontent.com/u/19976660?v=4" width=150>
 
