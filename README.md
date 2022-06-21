@@ -10,14 +10,13 @@ I am an undergraduate student at Czech Technical University in Prague.
 
 ### Languages and tools
 <p align="left">
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width=40> <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width=40>
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width=40> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width=40> <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width=40>
+</p>
+<p align="left">
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width=40>
 </p>
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width=40> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=40>
-</p>
-<p align="left">
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width=40>
-<img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" width=40>
 </p>
 
 ---
