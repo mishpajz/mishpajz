@@ -15,23 +15,23 @@ I'm storing my university work in a [separate organization mispajz-FIT](https://
 
 ### Languages and tools
 <p align="left">
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width=40> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width=40> <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width=40>
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width=25> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width=25> <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width=25>
 </p>
 <p align="left">
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width=40>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width=25>
 </p>
 <p align="left">
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width=40> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=40>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width=25> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=25>
 </p>
 
 ---
 
 ### Connect with me
 
-**[michaldobes.eu](https://michaldobes.eu)**
+**[My website - michaldobes.eu](https://michaldobes.eu)**
 <p>
-<a href="https://www.linkedin.com/in/mishpajz/"><img align="left" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" width=40></a>
-<a href="https://twitter.com/mishpajz"><img align="left" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" width=40></a>
+<a href="https://www.linkedin.com/in/mishpajz/"><img align="left" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" width=30></a>
+<a href="https://twitter.com/mishpajz"><img align="left" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" width=30></a>
 <br>
 </p>
 <br>
