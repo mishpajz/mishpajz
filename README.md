@@ -8,6 +8,11 @@ I am an undergraduate student at Czech Technical University in Prague.
 
 ---
 
+### My other repositories
+I'm storing my university work in a [separate organization mispajz-FIT](https://github.com/mishpajz-FIT).
+
+---
+
 ### Languages and tools
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width=40> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width=40> <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width=40>
@@ -30,8 +35,3 @@ I am an undergraduate student at Czech Technical University in Prague.
 <br>
 </p>
 <br>
-
----
-
-### My stats on github
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mishpajz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
