@@ -15,6 +15,7 @@ I'm storing my university work in a [separate organization mispajz-FIT](https://
 ---
 
 ### Languages and tools
+<a href="#">
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width=25> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width=25> <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width=25>
 </p>
@@ -22,7 +23,7 @@ I'm storing my university work in a [separate organization mispajz-FIT](https://
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width=25>
 </p>
 <p align="left">
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width=25> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=25>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=25> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" width=25></a>
 </p>
 
 ---
