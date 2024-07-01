@@ -1,7 +1,4 @@
 ## Hi there 👋 My name is Michal
-<p align="left">
-I am an undergraduate student at Czech Technical University in Prague.
-</p>
 <p align="center">
 <img src="https://github.com/mishpajz/mishpajz/blob/main/img/profilepic.png" width=150>
 </p>
