@@ -6,7 +6,7 @@
 ---
 
 ### My other repositories
-I'm storing my university work in a [separate organization mispajz-FIT](https://github.com/mishpajz-FIT).
+I'm storing my FIT CTU work in a [separate organization mispajz-FIT](https://github.com/mishpajz-FIT).
 
 <a href="https://github.com/mishpajz-FIT"><img src="https://github.com/mishpajz-FIT/.github/blob/master/img/fitdrawnicon.png" width=40></a>
 
